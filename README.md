@@ -10,7 +10,7 @@
  python main.py
  ```
  
-**II.Preguntas adicionales**
+**II.Pregunta adicional**
 =====================
 1. ¿Qué otra información sobre las personas te sería útil para mejorar tu algoritmo?
 
